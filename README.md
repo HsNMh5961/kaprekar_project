@@ -1,5 +1,5 @@
-[![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
-# kaprekar_project
+
+# kaprekar_project [![C++](https://img.shields.io/badge/C++-17-blue.svg)](https://isocpp.org/)
 This mini-project is designed based on Kaprekar's Constant (6174).  The program takes any 4-digit number as input and processes it through the Kaprekar routine until it reaches either 6174 or 0.
 
 ## 📖 About
