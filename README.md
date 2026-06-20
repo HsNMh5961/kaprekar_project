@@ -18,7 +18,6 @@ This program takes a 4-digit number and applies the **Kaprekar routine** to reac
 ## 🚀 How to Run
 
 1. Clone the repository
-```bash
 git clone https://github.com/your-username/kaprekar-project.git
 g++ kaprekar.cpp -o kaprekar
 ./kaprekar
