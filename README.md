@@ -4,9 +4,17 @@ This mini-project is designed based on Kaprekar's Constant (6174).  The program 
 
 ## 📖 About
 
-This program takes any **4-digit number** (with at least two different digits) and applies the **Kaprekar routine** to transform it into **6174**, also known as **Kaprekar's Constant**.
+This program is an interactive implementation of the **Kaprekar routine**, a fascinating mathematical curiosity that always leads to the mysterious number **6174** in at most 7 steps.
 
-The algorithm was discovered by Indian mathematician **Dattatreya Ramachandra Kaprekar** in 1949.
+**The Kaprekar Routine:**
+1. Take any 4-digit number with at least two different digits.
+2. Arrange its digits in descending and ascending order to create two new numbers.
+3. Subtract the smaller number from the larger one.
+4. Repeat the process with the result.
+
+Discovered by Indian mathematician **Dattatreya Ramachandra Kaprekar** in 1949, this simple algorithm demonstrates an intriguing property of our decimal number system. This project brings that mathematical wonder to life with clear, step-by-step output.
+
+> **Fun Fact:** No matter which 4-digit number you start with (as long as all digits aren't the same), you'll always reach **6174** – and it never takes more than 7 iterations!
 
 ## 🔢 Kaprekar Constant Processor
 
