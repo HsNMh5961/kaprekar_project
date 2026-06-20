@@ -7,7 +7,7 @@ This program takes any **4-digit number** (with at least two different digits) a
 
 The algorithm was discovered by Indian mathematician **Dattatreya Ramachandra Kaprekar** in 1949.
 
-🔢 Kaprekar Constant Processor
+## 🔢 Kaprekar Constant Processor
 
 This program takes a 4-digit number and applies the **Kaprekar routine** to reach **6174** (Kaprekar's Constant) or **0**.
 
@@ -17,7 +17,7 @@ This program takes a 4-digit number and applies the **Kaprekar routine** to reac
 
 ## 🚀 How to Run
 
-1. Clone the repository:
+1. Clone the repository
 ```bash
 git clone https://github.com/your-username/kaprekar-project.git
 g++ kaprekar.cpp -o kaprekar
