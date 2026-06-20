@@ -15,6 +15,10 @@ This program takes a 4-digit number and applies the **Kaprekar routine** to reac
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 
+## 🚀 How to Run
+1. Clone the repository
+2. Compile: `g++ main.cpp -o kaprekar`
+3. Run: `./kaprekar`
 
 ## 📸 Example Output
 Enter Your number: 3524
