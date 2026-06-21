@@ -57,9 +57,9 @@ void sortNum(int digits[]){
     for(int i =0; i < 4; i++){
         for (int j =i+1; j < 4; j++){
             if (digits[i] < digits[j]) {
-                int temp = digits[i];
-                digits[i] = digits[j];
-                digits[j] = temp;
+          digits[i] = digits[i] + digits[j];
+          digits[j] = digits[i] - digits[j];
+          digits[i] = digits[i] - digits[j];
             }
         }
     }
