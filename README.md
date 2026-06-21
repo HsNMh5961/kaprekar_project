@@ -58,6 +58,12 @@ Level 3: 6174
 - [Kaprekar's Constant on Wikipedia](https://en.wikipedia.org/wiki/Kaprekar%27s_constant)
 - [Numberphile - 6174](https://www.youtube.com/watch?v=d8bG6TqXbLM)
 
+## 👨‍💻 Author
+
+**Hasan Mahmoodi**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasan-mahmoodi-19a109376)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HsNMh5961)
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
